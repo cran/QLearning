@@ -1,0 +1,10 @@
+81a4ec375400691fa5e01850aa5ef43d *DESCRIPTION
+870ed138ebb3b9117be77bc70f1fcd62 *NAMESPACE
+4e5c413fc9564359c9e2dafd23cfc087 *NEWS.md
+f8ffdcac6c7d53448e658a28ca2c5d71 *R/qlearn.R
+97d263c6069cc2f53d6d1589d597c89c *R/qlearningaction.R
+6eb46d547bad5ed451f8c9b4fe0935a3 *R/qlearningupdate.R
+27daa03a866f26eeb2ea8a4774edc2e7 *README.md
+25b364f2677cb561633754b3951001b3 *man/qlearn.Rd
+0d70644e35a5d864196ec2395976211b *man/qlearningaction.Rd
+1d059e5b94a97d13e798a6999220bb5e *man/qlearningupdate.Rd
